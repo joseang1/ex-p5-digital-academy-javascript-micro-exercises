@@ -17,9 +17,14 @@ function app () {
             const stringArray = numberInput.value.split(/[\s,]+/);
             const numberArray = stringArray.map(Number);
             const largest = Math.max(...numberArray);
-            logNumber.textContent = `The largest number is ${largest}`;
+            logNumber.textContent = `The largest number is ${largest}`
         }
     });
 }
 
 app();
+
+
+
+
+
