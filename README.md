@@ -23,3 +23,31 @@ Escribe un programa que pida el nombre del usuario con un input y escriba un tex
 ### Resultado:
 
 ![image](./assets/img/EX-02_Result.jpg)
+
+---
+
+## EX - 03
+
+Escribe un programa que pida 3 números y escriba en la pantalla el mayor de los tres.
+
+### Pasos a seguir
+
+- Input numérico
+- Botón con el que validar los tres números
+- Si no son tres números, lanzar error
+- Recoger los datos del input
+- Devolver impreso en pantalla el número más grande
+
+### Resultado:
+
+![image](./assets/img/EX-03_Result.jpg)
+
+---
+
+## EX - 04
+
+Escribe un programa que pida una frase y escriba cuantas veces aparece la letra `a`.
+
+### Resultado:
+
+![]()

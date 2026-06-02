@@ -2,13 +2,13 @@
 
 function app() {
     const logName = document.getElementById("log");
-    const inputName = document.getElementById("username");
+    const name = document.getElementById("username")
+    const inputName = document.getElementById("button");
 
-    return logName.innertext = `Hello ${inputName.value}`;
 
-    // inputName.addEventListener("keyup", () => {
-    //     logName.innerText = `Hello ${inputName.value}`;
-    // });
+    inputName.addEventListener("click", () => {
+        logName.innerText = `Hello ${name.value}`;
+    });
 };
 
 app();
