@@ -55,4 +55,16 @@ Escribe un programa que pida una frase y escriba cuantas veces aparece la letra 
 
 ### Resultado:
 
-![]()
+N/A
+
+---
+
+## EX - 05
+
+N/A
+
+---
+
+## EX - 06
+
+Escribe un programa que pida dos números, que el usuario pueda elegir suma o resta y escriba `“La suma de con es ”` o `“La resta de con es ”`.
